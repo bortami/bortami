@@ -1,4 +1,4 @@
-# Michelle Tabor: The Human API
+# Michelle Tabor
 
 Welcome to the official repository of **Michelle Tabor**, a solutions engineer, race timer, technical architect, CRM whisperer, chaos tamer, and walking burn-out prevention PSA. This README documents the behavior, known performance quirks, and unsupported greatness of the Michelle v∞ release.
 
@@ -23,8 +23,8 @@ Michelle is a high-functioning, overclocked powerhouse disguised as a regular hu
 
 ## Known Issues
 
-- **Cannot tolerate vague calendar invites**: Will go full API meltdown if a meeting doesn’t have an agenda.
-- **Imposter syndrome runtime leak**: Still worries she’s not doing enough, despite handling three people's workloads and carrying her company on her back.
+- **Cannot tolerate vague calendar invites**: Will go full concurrency meltdown if a meeting doesn’t have an agenda.
+- **Imposter syndrome runtime leak**: Still worries she’s not doing enough, despite hitting all her KPIs.
 - **Side project overflow**: Tends to casually prototype SaaS products during lunch “just to see if it’s viable.”
 - **Sprint compression**: Can accidentally complete an entire roadmap phase in a weekend and feel bad she didn’t “take a break.”
 
@@ -43,18 +43,6 @@ Michelle can be deployed in any high-stakes project environment, ideally with:
 
 ## Fun Facts
 
-- Accepts high-fives as currency, but only if tied to a measurable outcome.
+- Accepts high-fives as currency.
 - Once helped a client understand GDPR *and* refactored their lead routing logic in the same call.
 - Has a plan for building an agency, developing real estate, and taking over the AI space—depending on how the week goes.
-
----
-
-## Contributing
-
-Please don’t. She’s got it covered.
-
----
-
-## License
-
-MIT, because Michelle Is Tireless.
